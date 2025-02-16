@@ -11,6 +11,4 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on innovative web3 and DAO projects.
 - 🤔 I’m looking for help with scaling decentralized applications.
 - 💬 Ask me about full stack development, blockchain, and DAOs.
-- 📫 How to reach me: [Your Email or Social Media]
-- 😄 Pronouns: [Your Pronouns]
 - ⚡ Fun fact: I love exploring the intersection of technology and decentralization.
