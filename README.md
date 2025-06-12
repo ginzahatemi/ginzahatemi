@@ -1,15 +1,16 @@
 ## Hi there 👋
 
-Welcome to my GitHub profile! I'm passionate about the decentralized web, smart contracts, and everything blockchain. I thrive on building systems that empower communities and promote transparency.
+Welcome to my GitHub! I’m a full stack engineer building in Web3 and DAOs.  
+I love creating tools that empower communities, spark collaboration, and tell stories through code.
 
 ---
 
-- 🔭 Currently building in the world of Web3 and DAOs.
-- 🌱 Deep-diving into advanced blockchain technologies and smart contract development.
-- 👯 Looking to collaborate on innovative Web3 and DAO projects.
-- 🤔 Exploring challenges around scaling decentralized applications.
-- 💬 Open to chat about full stack development, blockchain ecosystems, and governance mechanisms.
-- ⚡ Fun fact: I love exploring the intersection of technology and decentralization.
+- 🔭 Currently working on Web3 apps and DAO infrastructure  
+- 🌱 Exploring advanced blockchain tech, governance models, and smart contracts  
+- 👯 Always open to collab on creative, mission-driven projects  
+- 🧠 Sharing what I learn through code, docs, and community spaces  
+- 💬 Let's chat about dev workflows, tokenized communities, or onchain coordination  
+- ⚡ Fun fact: I believe code is a medium for storytelling
 
 ---
 
